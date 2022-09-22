@@ -12,9 +12,10 @@ https://antonputra.com/terraform/how-to-create-eks-cluster-using-terraform/
 
 https://antonputra.com/amazon/create-eks-cluster-using-terraform-modules/
 
-## EKS Blueprints for CDK Workshop
+## EKS Blueprints for Terraform Workshop - Level 300
 
 https://catalog.workshops.aws/eks-blueprints-terraform/en-US
+
 https://github.com/aws-samples/eks-blueprints-workloads
 
 ## Further reading
