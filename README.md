@@ -18,5 +18,10 @@ https://catalog.workshops.aws/eks-blueprints-terraform/en-US
 
 https://github.com/aws-samples/eks-blueprints-workloads
 
+![](2022-09-22-16-07-02.png)
+![](2022-09-22-16-06-26.png)
+![](2022-09-22-16-11-40.png)
+![](2022-09-22-16-09-46.png)
+
 ## Further reading
 https://catalog.workshops.aws/eks-blueprints-for-cdk/en-US
